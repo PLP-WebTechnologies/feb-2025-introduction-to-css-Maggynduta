@@ -1,0 +1,44 @@
+/* Style the header using an ID selector */
+#header {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    background-color: #007bff;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style a paragraph using a class selector */
+.highlight {
+    background-color: yellow;
+    padding: 10px;
+    border: 1px solid #ccc;
+    font-weight: bold;
+}
+
+/* Style all paragraphs using an element selector */
+p {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+}
+
+/* Style the image */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the content container */
+.content {
+    padding: 20px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    width: 60%;
+    text-align: center;
+}
